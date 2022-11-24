@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: AndikaNewBasic-R
+font link: https://www.fontsquirrel.com/fonts/andika-basic
+font author: Sil International
+font author site: http://scripts.sil.org/
+Slogan Font: Neuton-Extralight.ttf
+
+icon designer: Larisa Skosyrska
+icon designer link: /Lara.Skosyrska
+        
+{"bg":"transparent","icon-gradient-0":"#420F14","icon-gradient-1":"#C5545E","font":"#000000","slogan":"#141414"}
+      

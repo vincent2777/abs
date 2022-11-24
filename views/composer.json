@@ -1,0 +1,11 @@
+{
+    "config": {
+
+        "platform-check": false
+    },
+    "require": {
+        "picqer/php-barcode-generator": "^2.2",
+        "aspose/barcode": "^21.7"
+    }
+      
+}

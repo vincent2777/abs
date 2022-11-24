@@ -1,0 +1,105 @@
+.abs-bg-color1 {
+  background-color: #101316;
+}
+
+#invoice-table {
+  margin-left: -45px;
+  margin-top: -25px;
+}
+
+.cart-holder {
+  margin: 4px, 4px;
+  padding: 14px;
+  height: 500px;
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: auto;
+  z-index: 2;
+  background-color: white;
+  border-radius: 4px !important;
+}
+
+/* custom scrollbar */
+
+.cart-holder::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* custom scrollbar */
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+.table tr td {
+  font-size: 13px !important;
+  padding: 8px !important;
+}
+
+.table tr td h6 {
+  font-size: 13px !important;
+}
+
+#list_all_products tr td {
+  padding: 5px 5px 0px 10px !important;
+  font-size: 11px !important;
+}
+
+#list_all_products tr td h6 {
+  font-size: 11px !important;
+}
+
+#cart_table tr td {
+  padding: 5px 5px 0px 10px !important;
+  font-size: 11px !important;
+}
+
+#cart_table tr td h6 {
+  font-size: 11px !important;
+}
+
+.table tr td input {
+  padding: 5px !important;
+  height: 40px !important;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+.cart-holder::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.cart-holder::-webkit-scrollbar-thumb {
+  background-color: #d6dee1;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+#invoice-table tr, td {
+  border: 0px;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.btn {
+  border-radius: 4px !important;
+  width: auto;
+}
+
+select {
+  color: black;
+}
+
+select option {
+  color: black;
+}
